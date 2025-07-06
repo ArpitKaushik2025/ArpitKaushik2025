@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning Full Stack Web Development (MERN) and DSA in JAVA
 - 📫 How to reach me: arpit.kaushik.2025@gmail.com
 
+<img src="https://github-readme-stats.vercel.app/api?username=ArpitKaushik2025&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ArpitKaushik2025's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKaushik2025&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="ArpitKaushik2025's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=ArpitKaushik2025&theme=tokyonight&hide_border=true" alt="ArpitKaushik2025's GitHub Stats" />
