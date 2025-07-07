@@ -1,4 +1,4 @@
-<h2 align="center" margin-bottom="1rem">Hi there 👋 I'm Arpit Kaushik</h2>
+<h2 align="center">Hi there 👋 I'm Arpit Kaushik</h2>
 
 <br />
 
@@ -9,6 +9,22 @@
 - 🔭 I’m currently working on polishing my skills and learning new tech.
 - 🌱 I’m currently learning Full Stack Web Development (MERN) and DSA in JAVA
 - 📫 How to reach me: arpit.kaushik.2025@gmail.com
+
+<!-- <br /><br />
+
+<h2 align="center">Languages</h2>
+<div style="display:flex; flex-direction:column;" align="center">
+  <div style="display:flex;">
+    <img src="https://cdn3.emoji.gg/emojis/8241-c-plus-plus.png" height=50 width=50 />
+    <img src="https://tse4.mm.bing.net/th/id/OIP.rZ2ICZTTMw-qDnDyedR1BAHaHD?r=0&w=728&h=693&rs=1&pid=ImgDetMain&o=7&rm=3" height=50 width=50 />
+    <img src="https://toppng.com/public/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" height=50 width=50 />
+  </div>
+   <div style="display:flex;">
+    <img src="https://cdn3.emoji.gg/emojis/8241-c-plus-plus.png" height=50 width=50 />
+    <img src="https://cdn3.emoji.gg/emojis/8241-c-plus-plus.png" height=50 width=50 />
+    <img src="https://cdn3.emoji.gg/emojis/8241-c-plus-plus.png" height=50 width=50 />
+  </div>
+</div> -->
 
 <br /><br/>
 
