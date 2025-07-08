@@ -28,7 +28,7 @@
 
 <br /><br/>
 
-![GitHub Snake Animation](https://github.com/ArpitKaushik2025/ArpitKaushik2025/blob/output/github-snake.svg)
+<!-- ![GitHub Snake Animation](https://github.com/ArpitKaushik2025/ArpitKaushik2025/blob/output/github-snake.svg) -->
 
 <br /><br />
 
