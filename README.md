@@ -28,6 +28,8 @@
 
 <br /><br/>
 
+Enjoy the snake eating my contribution graph 😝
+
 ![Snake animation](https://raw.githubusercontent.com/ArpitKaushik2025/ArpitKaushik2025/main/assets/snake-dark.svg)
 
 <br /><br />
