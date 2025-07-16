@@ -13,10 +13,11 @@
 - 🔭 I’m currently working on polishing my skills and learning new tech.
 - 🌱 I’m currently learning Full Stack Web Development (MERN) and DSA in JAVA
 - 📫 How to reach me: arpit.kaushik.2025@gmail.com
--
--
+
+
+
 <!--
-- <div id="badges">
+ <div id="badges">
   <a href="https://www.linkedin.com/in/arpit-kaushik-84bb9a30a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
