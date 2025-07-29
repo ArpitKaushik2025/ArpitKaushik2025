@@ -44,7 +44,7 @@
 
 <br /><br/>
 
-Enjoy the snake eating my contribution graph 😝
+### Enjoy seeing my contribution graph snake!
 
 ![Snake animation](https://raw.githubusercontent.com/ArpitKaushik2025/ArpitKaushik2025/main/assets/snake-dark.svg)
 
